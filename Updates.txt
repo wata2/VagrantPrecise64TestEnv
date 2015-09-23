@@ -1,0 +1,9 @@
+***************************************************
+OS - precise64
+Private Network - 192.168.55.55
+Install Apps - apache2 php5 libapache2-mod-php5
+***************************************************
+
+9/??/2015
+Once it is up, local folder ./app will synchronize with /var/www to apply index page.
+Index page is locally accessible from 192.168.55.55/index.html
